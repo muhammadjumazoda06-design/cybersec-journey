@@ -1,0 +1,4 @@
+google.com
+github.com
+tryhackme.com
+asu.tut.tj
